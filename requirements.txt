@@ -1,3 +1,5 @@
-numpy~=1.18.3
-feems~=0.4.4
-pandas~=1.0.3
+numpy
+feems
+pandas
+jupyter
+matplotlib
